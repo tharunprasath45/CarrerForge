@@ -12,7 +12,7 @@ function App() {
         carrerparagraph="CareerForge supports jobseekers with insights that go beyond
               traditional job listings. Understand roles, skill requirements,
               and career progression to approach your job search with clarity
-              and confidence."
+              and confidence vrbnbjmeb."
       />
     </div>
   );
