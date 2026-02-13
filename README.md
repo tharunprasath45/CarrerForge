@@ -5,7 +5,7 @@ Project Title: CarrerForge( Indusyry Skill demand Analyzer)
 
    1.1 Solution
 
-        This project provides an efficient and user-friendly solution by collecting user input through a simple and intuitive interface. The system processes the data using optimized backend logic to ensure accuracy and performance. All information is securely stored and managed within the database to maintain data integrity and reliability. Finally, the processed results are displayed in a clear and meaningful format, allowing users to easily understand and interact with the output. This structured approach ensures a smooth workflow, improved efficiency, and an enhanced user experience.
+   This project provides an efficient and user-friendly solution by collecting user input through a simple and intuitive interface. The system processes the data using optimized backend logic to ensure accuracy     and performance. All information is securely stored and managed within the database to maintain data integrity and reliability. Finally, the processed results are displayed in a clear and meaningful format,      allowing users to easily understand and interact with the output. This structured approach ensures a smooth workflow, improved efficiency, and an enhanced user experience.
 
 ---
  
