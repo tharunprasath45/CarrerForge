@@ -1,4 +1,4 @@
-Project Title: CarrerForge( Indusyry Skill demand Analyzer)
+Project Title: CarrerForge (Indusyry Skill demand Analyzer)
 
 
 1. Overview
@@ -96,7 +96,6 @@ You can now use the application to:
 
 - 🔹 Add more advanced features
 - 🔹 Improve performance optimization
-- 🔹 Deploy to cloud platforms (AWS / Vercel / Heroku)
 - 🔹 Add unit and integration testing
 
 ---
@@ -122,7 +121,7 @@ This project is licensed under the MIT License.
 10. Author
 
 **THARUN PRASATH C**  
-GitHub: https://github.com/tharun4563  
+GitHub: https://github.com/tharunprasath4563  
 Email: tharunprasath288@gmail.com 
 
 ---
